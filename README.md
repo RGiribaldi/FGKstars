@@ -1,6 +1,6 @@
 # FGKstars
 
-Here I provide a library of normalised and non-normalised observational spectra for calibration purposes.
+Here I provide a library of normalised and non-normalised observational spectra around the Balmer Halpha line for calibration purposes.
 If you use these spectra in your scientific production, I suggest the following citation text:
 "These are the European Southern Observatory (ESO) spectra of the so called TITANS metal-poor reference stars. These were extracted from the ESO public archive and processed in Giribaldi et al. 2021A&A...650A.194G (dwarfs) and Giribaldi et al. 2023A&A...679A.110G (red giants) appying the method exposed in detail in Giribaldi et al. 2019A&A...624A..10G."
 The reference accurate temperatures determined are listed in Table 2 and 3 in Giribaldi et al. 2021A&A...650A.194G and Table 2 in Giribaldi et al. 2023A&A...679A.110G.
